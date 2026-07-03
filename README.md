@@ -2,7 +2,7 @@
 
 A hands-on computer vision project that detects objects in images and in a live webcam feed, built step by step while learning the fundamentals of computer vision.
 
-![demo](demo.gif)
+![demo](https://raw.githubusercontent.com/Zee-daher/realtime-object-detection/main/demo.gif)
 
 ## About
 
